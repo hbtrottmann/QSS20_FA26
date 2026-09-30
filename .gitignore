@@ -29,3 +29,15 @@ activity_solutions/lec05_activity.ipynb
 
 # Shell practice folder from lecture 2
 scratch/
+
+# Generated Quarto files
+**/.quarto/
+
+# Blank problem-set PDFs
+problemsets/*/ps*_blank.pdf
+
+# Generated problem-set files
+**/*_blank_files/
+
+# Scratch files
+**/scratch.txt
